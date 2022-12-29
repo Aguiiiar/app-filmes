@@ -24,10 +24,10 @@ Após essa instalação execute a aplicação com o comando `npm run start` ou `
 [![techs](https://skillicons.dev/icons?i=react,styledcomponents&perline=3)](https://skillicons.dev)
 
 ## Homepage
-![Home](src\assets\home.png)
+![Home](./src/assets/home.png)
 
 ## Detalhes
-![Detail](src\assets\detail.png)
+![Detail](./src/assets/detail.png)
 
 ## Meus Filmes
-![Detail](src\assets\my.png)
+![Detail](./src/assets/my.png)
